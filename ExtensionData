@@ -1,0 +1,10 @@
+{
+  "Quizizz": {
+    "Highlighter (Beta)": {
+      "script": "https://cdnred.grid.tk/obj/ea-prod/quizizz-highlight-beta.js"
+    },
+    "Get Answers": {
+      "script": "https://rawcdn.githack.com/EastArctica/JS-Plugins/bcae029cd075cf0ab78155266bde4116667b9586/Quizizz/QuizzizGetAnswers.js"
+    }
+  }
+}
